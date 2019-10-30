@@ -1,0 +1,1780 @@
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 61.316770186335404
+INFO:log_file:Median : 57.0
+INFO:log_file:counter : Counter({50.0: 19, 53.0: 11, 51.0: 10, 52.0: 10, 58.0: 10, 54.0: 9, 57.0: 9, 56.0: 7, 63.0: 7, 55.0: 6, 62.0: 5, 59.0: 5, 69.0: 4, 65.0: 4, 60.0: 4, 61.0: 3, 71.0: 3, 72.0: 3, 68.0: 3, 64.0: 2, 78.0: 2, 75.0: 2, 73.0: 2, 97.0: 2, 70.0: 2, 84.0: 2, 76.0: 2, 77.0: 1, 79.0: 1, 90.0: 1, 81.0: 1, 86.0: 1, 67.0: 1, 112.0: 1, 83.0: 1, 95.0: 1, 66.0: 1, 103.0: 1, 98.0: 1, 99.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [116.0, 200.0, 200.0, 95.0, 87.0, 64.0, 91.0, 129.0, 132.0, 200.0]
+INFO:log_file:Average Score:131.4
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 61.04022988505747
+INFO:log_file:Median : 57.0
+INFO:log_file:counter : Counter({51.0: 18, 55.0: 15, 56.0: 13, 57.0: 11, 50.0: 10, 52.0: 10, 53.0: 8, 59.0: 7, 64.0: 6, 54.0: 6, 69.0: 5, 62.0: 5, 72.0: 5, 63.0: 4, 61.0: 4, 65.0: 4, 71.0: 4, 70.0: 4, 58.0: 4, 60.0: 3, 77.0: 3, 66.0: 3, 68.0: 3, 81.0: 2, 67.0: 2, 89.0: 1, 84.0: 1, 88.0: 1, 83.0: 1, 78.0: 1, 115.0: 1, 76.0: 1, 87.0: 1, 82.0: 1, 93.0: 1, 95.0: 1, 75.0: 1, 79.0: 1, 85.0: 1, 73.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 61.36
+INFO:log_file:Median : 58.0
+INFO:log_file:counter : Counter({50.0: 17, 51.0: 16, 52.0: 14, 53.0: 14, 59.0: 9, 62.0: 8, 57.0: 7, 55.0: 7, 56.0: 6, 58.0: 6, 54.0: 6, 63.0: 5, 70.0: 4, 67.0: 4, 60.0: 4, 84.0: 4, 76.0: 4, 72.0: 4, 69.0: 4, 66.0: 4, 68.0: 3, 71.0: 3, 64.0: 3, 79.0: 3, 75.0: 2, 83.0: 2, 73.0: 2, 61.0: 1, 81.0: 1, 77.0: 1, 104.0: 1, 74.0: 1, 65.0: 1, 112.0: 1, 94.0: 1, 109.0: 1, 127.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 62.16483516483517
+INFO:log_file:Median : 58.0
+INFO:log_file:counter : Counter({51.0: 17, 54.0: 15, 50.0: 13, 52.0: 10, 56.0: 9, 55.0: 9, 61.0: 9, 65.0: 8, 58.0: 7, 60.0: 7, 66.0: 6, 57.0: 6, 53.0: 6, 74.0: 5, 62.0: 4, 81.0: 4, 67.0: 4, 72.0: 4, 64.0: 4, 63.0: 3, 59.0: 3, 89.0: 3, 79.0: 3, 84.0: 3, 92.0: 2, 85.0: 2, 70.0: 2, 97.0: 1, 76.0: 1, 77.0: 1, 80.0: 1, 75.0: 1, 82.0: 1, 73.0: 1, 78.0: 1, 88.0: 1, 126.0: 1, 71.0: 1, 87.0: 1, 69.0: 1, 68.0: 1})
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 60.86363636363637
+INFO:log_file:Median : 57.0
+INFO:log_file:counter : Counter({52.0: 16, 51.0: 16, 50.0: 12, 54.0: 11, 57.0: 10, 64.0: 9, 55.0: 9, 53.0: 8, 56.0: 7, 60.0: 6, 71.0: 6, 62.0: 6, 59.0: 6, 68.0: 5, 58.0: 5, 66.0: 4, 65.0: 4, 61.0: 4, 63.0: 4, 74.0: 2, 70.0: 2, 76.0: 2, 86.0: 2, 91.0: 2, 77.0: 2, 67.0: 1, 75.0: 1, 83.0: 1, 78.0: 1, 79.0: 1, 84.0: 1, 92.0: 1, 69.0: 1, 96.0: 1, 94.0: 1, 95.0: 1, 72.0: 1, 73.0: 1, 81.0: 1, 80.0: 1, 85.0: 1})
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 62.54140127388535
+INFO:log_file:Median : 58.0
+INFO:log_file:counter : Counter({52.0: 22, 51.0: 12, 58.0: 10, 50.0: 10, 54.0: 8, 59.0: 8, 55.0: 6, 53.0: 6, 61.0: 6, 60.0: 6, 65.0: 4, 63.0: 4, 73.0: 4, 56.0: 4, 83.0: 3, 57.0: 3, 62.0: 3, 71.0: 3, 64.0: 3, 79.0: 2, 69.0: 2, 66.0: 2, 84.0: 2, 70.0: 2, 67.0: 2, 80.0: 2, 99.0: 1, 72.0: 1, 82.0: 1, 85.0: 1, 89.0: 1, 96.0: 1, 90.0: 1, 68.0: 1, 94.0: 1, 77.0: 1, 98.0: 1, 86.0: 1, 113.0: 1, 114.0: 1, 101.0: 1, 110.0: 1, 75.0: 1, 87.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 62.355932203389834
+INFO:log_file:Median : 59.0
+INFO:log_file:counter : Counter({51.0: 15, 52.0: 14, 50.0: 12, 57.0: 11, 54.0: 11, 60.0: 10, 59.0: 9, 63.0: 9, 55.0: 6, 58.0: 5, 71.0: 5, 61.0: 5, 56.0: 5, 68.0: 5, 64.0: 4, 73.0: 4, 53.0: 4, 69.0: 4, 74.0: 4, 75.0: 3, 67.0: 3, 65.0: 3, 81.0: 3, 72.0: 2, 66.0: 2, 70.0: 2, 84.0: 2, 77.0: 2, 78.0: 2, 89.0: 1, 124.0: 1, 88.0: 1, 83.0: 1, 80.0: 1, 127.0: 1, 115.0: 1, 62.0: 1, 96.0: 1, 92.0: 1, 79.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 61.24742268041237
+INFO:log_file:Median : 57.0
+INFO:log_file:counter : Counter({50.0: 21, 53.0: 18, 51.0: 13, 52.0: 12, 56.0: 11, 54.0: 11, 60.0: 10, 59.0: 9, 57.0: 9, 61.0: 8, 58.0: 7, 63.0: 7, 64.0: 6, 62.0: 5, 55.0: 5, 71.0: 4, 67.0: 3, 74.0: 3, 73.0: 3, 69.0: 2, 65.0: 2, 86.0: 2, 75.0: 2, 77.0: 1, 85.0: 1, 101.0: 1, 97.0: 1, 68.0: 1, 87.0: 1, 90.0: 1, 96.0: 1, 82.0: 1, 119.0: 1, 80.0: 1, 78.0: 1, 72.0: 1, 89.0: 1, 70.0: 1, 92.0: 1, 163.0: 1, 83.0: 1, 84.0: 1, 98.0: 1, 106.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [99.0, 57.0, 117.0, 76.0, 99.0, 139.0, 200.0, 110.0, 58.0, 67.0]
+INFO:log_file:Average Score:102.2
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 60.93197278911565
+INFO:log_file:Median : 59.0
+INFO:log_file:counter : Counter({52.0: 17, 61.0: 11, 56.0: 11, 69.0: 8, 51.0: 8, 53.0: 8, 59.0: 7, 54.0: 6, 57.0: 6, 50.0: 6, 58.0: 6, 74.0: 5, 64.0: 5, 63.0: 5, 68.0: 4, 55.0: 4, 62.0: 4, 65.0: 4, 60.0: 3, 72.0: 3, 73.0: 2, 67.0: 2, 66.0: 2, 76.0: 2, 104.0: 1, 77.0: 1, 71.0: 1, 70.0: 1, 95.0: 1, 122.0: 1, 78.0: 1, 93.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 142.0, 200.0, 183.0, 123.0, 200.0, 156.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:180.4
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 60.48148148148148
+INFO:log_file:Median : 56.0
+INFO:log_file:counter : Counter({51.0: 3, 54.0: 3, 53.0: 2, 52.0: 2, 59.0: 2, 62.0: 2, 55.0: 2, 79.0: 1, 82.0: 1, 87.0: 1, 68.0: 1, 57.0: 1, 65.0: 1, 50.0: 1, 81.0: 1, 73.0: 1, 56.0: 1, 58.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 128.0, 184.0, 200.0, 200.0, 200.0, 131.0, 186.0]
+INFO:log_file:Average Score:182.9
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 59.8125
+INFO:log_file:Median : 55.5
+INFO:log_file:counter : Counter({51.0: 4, 52.0: 4, 56.0: 3, 50.0: 3, 54.0: 3, 60.0: 2, 55.0: 2, 111.0: 1, 67.0: 1, 76.0: 1, 57.0: 1, 71.0: 1, 64.0: 1, 70.0: 1, 73.0: 1, 69.0: 1, 62.0: 1, 72.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [86.0, 76.0, 200.0, 112.0, 93.0, 88.0, 74.0, 111.0, 123.0, 94.0]
+INFO:log_file:Average Score:105.7
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 59.42857142857143
+INFO:log_file:Median : 57.0
+INFO:log_file:counter : Counter({56.0: 3, 52.0: 2, 51.0: 2, 57.0: 2, 58.0: 2, 81.0: 2, 59.0: 1, 69.0: 1, 53.0: 1, 54.0: 1, 50.0: 1, 62.0: 1, 75.0: 1, 60.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:log_file:scores: [83.0, 87.0, 101.0, 91.0, 101.0, 85.0, 95.0, 98.0, 99.0, 101.0]
+INFO:log_file:Average Score:94.1
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 63.888888888888886
+INFO:log_file:Median : 62.0
+INFO:log_file:counter : Counter({55.0: 4, 68.0: 2, 62.0: 2, 54.0: 2, 70.0: 1, 64.0: 1, 89.0: 1, 51.0: 1, 76.0: 1, 53.0: 1, 71.0: 1, 88.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 59.5
+INFO:log_file:Median : 55.0
+INFO:log_file:counter : Counter({52.0: 3, 64.0: 1, 51.0: 1, 50.0: 1, 53.0: 1, 57.0: 1, 73.0: 1, 62.0: 1, 83.0: 1, 65.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:log_file:scores: [10.0, 12.0, 12.0, 9.0, 9.0, 12.0, 12.0, 11.0, 10.0, 12.0]
+INFO:log_file:Average Score:10.9
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 60.333333333333336
+INFO:log_file:Median : 56.0
+INFO:log_file:counter : Counter({55.0: 3, 61.0: 2, 53.0: 2, 52.0: 1, 63.0: 1, 56.0: 1, 62.0: 1, 65.0: 1, 91.0: 1, 50.0: 1, 73.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 88.0, 78.0, 67.0, 64.0, 64.0, 68.0, 200.0, 68.0, 62.0]
+INFO:log_file:Average Score:95.9
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 60.85087719298246
+INFO:log_file:Median : 57.5
+INFO:log_file:counter : Counter({50.0: 11, 51.0: 11, 56.0: 8, 57.0: 8, 64.0: 7, 52.0: 6, 60.0: 6, 61.0: 5, 59.0: 5, 55.0: 5, 54.0: 4, 74.0: 4, 53.0: 4, 65.0: 3, 58.0: 3, 62.0: 3, 63.0: 2, 71.0: 2, 67.0: 2, 84.0: 2, 87.0: 1, 86.0: 1, 69.0: 1, 66.0: 1, 79.0: 1, 68.0: 1, 81.0: 1, 70.0: 1, 85.0: 1, 97.0: 1, 73.0: 1, 118.0: 1, 99.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 58.50833333333333
+INFO:log_file:Median : 55.0
+INFO:log_file:counter : Counter({50.0: 16, 52.0: 12, 51.0: 10, 55.0: 9, 53.0: 9, 54.0: 7, 57.0: 6, 56.0: 6, 60.0: 5, 59.0: 5, 61.0: 5, 63.0: 4, 58.0: 3, 62.0: 3, 83.0: 2, 78.0: 2, 66.0: 2, 82.0: 2, 68.0: 2, 79.0: 1, 67.0: 1, 85.0: 1, 65.0: 1, 73.0: 1, 101.0: 1, 99.0: 1, 88.0: 1, 72.0: 1, 64.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 61.58181818181818
+INFO:log_file:Median : 58.0
+INFO:log_file:counter : Counter({50.0: 10, 51.0: 8, 53.0: 7, 54.0: 7, 58.0: 6, 57.0: 6, 56.0: 6, 52.0: 6, 59.0: 5, 62.0: 5, 61.0: 5, 55.0: 4, 67.0: 4, 60.0: 3, 63.0: 2, 86.0: 2, 89.0: 2, 79.0: 2, 80.0: 2, 66.0: 2, 73.0: 1, 70.0: 1, 97.0: 1, 76.0: 1, 71.0: 1, 69.0: 1, 95.0: 1, 68.0: 1, 90.0: 1, 87.0: 1, 64.0: 1, 104.0: 1, 65.0: 1, 72.0: 1, 99.0: 1, 75.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:gym.envs.registration:Making new env: CartPole-v0
+INFO:log_file:data on accepted score: 
+INFO:log_file:Average: 60.11965811965812
+INFO:log_file:Median : 57.0
+INFO:log_file:counter : Counter({50.0: 11, 54.0: 8, 51.0: 8, 52.0: 8, 63.0: 8, 56.0: 8, 58.0: 7, 57.0: 7, 75.0: 6, 53.0: 5, 55.0: 5, 60.0: 5, 71.0: 3, 67.0: 3, 66.0: 3, 59.0: 3, 65.0: 3, 68.0: 3, 70.0: 2, 76.0: 1, 90.0: 1, 78.0: 1, 99.0: 1, 79.0: 1, 62.0: 1, 82.0: 1, 61.0: 1, 84.0: 1, 73.0: 1, 69.0: 1})
+INFO:log_file:the input size is:4
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\Users\ezri7\PycharmProjects\gameAgent\test.model is not in all_model_checkpoint_paths. Manually adding it.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+DEBUG:gym.wrappers.time_limit:Env has passed the step limit defined by TimeLimit.
+INFO:log_file:scores: [200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0, 200.0]
+INFO:log_file:Average Score:200.0
